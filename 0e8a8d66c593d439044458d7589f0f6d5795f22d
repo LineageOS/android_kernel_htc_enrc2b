@@ -1,0 +1,208 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3a57f1b5_aaebcbaf",
+        "filename": "drivers/input/touchscreen/synaptics_3200.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 179,
+      "author": {
+        "id": 5678
+      },
+      "writtenOn": "2014-01-23T02:27:11Z",
+      "side": 1,
+      "message": "Don\u0027t enable it by default.",
+      "revId": "0e8a8d66c593d439044458d7589f0f6d5795f22d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a57f1b5_4ad1f7fa",
+        "filename": "drivers/input/touchscreen/synaptics_3200.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 1652,
+      "author": {
+        "id": 5678
+      },
+      "writtenOn": "2014-01-23T02:27:11Z",
+      "side": 1,
+      "message": "Trailing whitespace.",
+      "revId": "0e8a8d66c593d439044458d7589f0f6d5795f22d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a57f1b5_6ace335c",
+        "filename": "drivers/input/touchscreen/synaptics_3200.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 1816,
+      "author": {
+        "id": 5678
+      },
+      "writtenOn": "2014-01-23T02:27:11Z",
+      "side": 1,
+      "message": "Trailing whitespace.",
+      "revId": "0e8a8d66c593d439044458d7589f0f6d5795f22d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a57f1b5_0adbff1c",
+        "filename": "drivers/input/touchscreen/synaptics_3200.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 1847,
+      "author": {
+        "id": 5678
+      },
+      "writtenOn": "2014-01-23T02:27:11Z",
+      "side": 1,
+      "message": "Trailing whitespace.",
+      "revId": "0e8a8d66c593d439044458d7589f0f6d5795f22d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a57f1b5_2ad83b1d",
+        "filename": "drivers/input/touchscreen/synaptics_3200.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 1941,
+      "author": {
+        "id": 5678
+      },
+      "writtenOn": "2014-01-23T02:27:11Z",
+      "side": 1,
+      "message": "Trailing whitespace.",
+      "revId": "0e8a8d66c593d439044458d7589f0f6d5795f22d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a57f1b5_ca03a775",
+        "filename": "drivers/input/touchscreen/synaptics_3200.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 1995,
+      "author": {
+        "id": 5678
+      },
+      "writtenOn": "2014-01-23T02:27:11Z",
+      "side": 1,
+      "message": "Trailing whitespace.",
+      "revId": "0e8a8d66c593d439044458d7589f0f6d5795f22d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a57f1b5_ea08e393",
+        "filename": "drivers/input/touchscreen/synaptics_3200.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 2160,
+      "author": {
+        "id": 5678
+      },
+      "writtenOn": "2014-01-23T02:27:11Z",
+      "side": 1,
+      "message": "Trailing whitespace.",
+      "revId": "0e8a8d66c593d439044458d7589f0f6d5795f22d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a57f1b5_8afdaf70",
+        "filename": "drivers/input/touchscreen/synaptics_3200.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 2310,
+      "author": {
+        "id": 5678
+      },
+      "writtenOn": "2014-01-23T02:27:11Z",
+      "side": 1,
+      "message": "Trailing whitespace.",
+      "revId": "0e8a8d66c593d439044458d7589f0f6d5795f22d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a57f1b5_aa02eb6d",
+        "filename": "drivers/input/touchscreen/synaptics_3200.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 2475,
+      "author": {
+        "id": 5678
+      },
+      "writtenOn": "2014-01-23T02:27:11Z",
+      "side": 1,
+      "message": "Trailing whitespace.",
+      "revId": "0e8a8d66c593d439044458d7589f0f6d5795f22d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a57f1b5_4af8177d",
+        "filename": "drivers/input/touchscreen/synaptics_3200.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 2503,
+      "author": {
+        "id": 5678
+      },
+      "writtenOn": "2014-01-23T02:27:11Z",
+      "side": 1,
+      "message": "Trailing whitespace.",
+      "revId": "0e8a8d66c593d439044458d7589f0f6d5795f22d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a57f1b5_6af5d381",
+        "filename": "drivers/input/touchscreen/synaptics_3200.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 2506,
+      "author": {
+        "id": 5678
+      },
+      "writtenOn": "2014-01-23T02:27:11Z",
+      "side": 1,
+      "message": "Trailing whitespace.",
+      "revId": "0e8a8d66c593d439044458d7589f0f6d5795f22d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a57f1b5_0af21f9b",
+        "filename": "drivers/input/touchscreen/synaptics_3200.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 3557,
+      "author": {
+        "id": 5678
+      },
+      "writtenOn": "2014-01-23T02:27:11Z",
+      "side": 1,
+      "message": "Trailing whitespace.",
+      "revId": "0e8a8d66c593d439044458d7589f0f6d5795f22d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
